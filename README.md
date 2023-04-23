@@ -1,2 +1,2 @@
-# PrepCourse-Henry2
-Este es un repositorio de prueba del módulo 2 en el PrepCourse de Henry
+Liam Fabiel Gervsaio
+Este archivo es una prueba en github sobre cómo crear un repositorio, clonarlo. y moverlo a mi escritorio
